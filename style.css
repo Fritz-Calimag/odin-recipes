@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(240, 255, 250);
+  }
+
+h1 {
+    text-align: center;
+    background-color: #E6E6FA;
+    padding: 20px;
+    color: rgb(120, 120, 120);
+}
+
+li{
+    margin: 40px;
+    list-style-type: none;
+}
+
+li a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+    color: #C8A2C8;
+}
